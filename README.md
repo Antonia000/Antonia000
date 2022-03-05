@@ -7,7 +7,7 @@
   Connect with me :
   <div class="social-icons-image">
                 <a href="http://www.linkedin.com">
-                   <img src="https://img.icons8.com/office/16/000000/twitter.png" width="50px"/>
+                   <img src="https://img.icons8.com/office/80/000000/twitter.png"/>
                 </a>
             </div>
 
