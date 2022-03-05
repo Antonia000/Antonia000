@@ -7,7 +7,7 @@
   Connect with me :
   <div class="social-icons-image">
                 <a href="http://www.linkedin.com">
-                    <img src="http://www.foodbanknyc.org/_gfx_/icon-linkedin.png" alt="Linkedin Icon">
+                   <img src="https://img.icons8.com/office/16/000000/twitter.png" width="50px"/>
                 </a>
             </div>
 
