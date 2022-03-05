@@ -9,8 +9,8 @@
                 <a href="https://twitter.com/Antoniaaaa____">
                    <img src="https://img.icons8.com/office/40/000000/twitter.png"/>
                 </a>
-              <a href="http://www.linkedin.com">
-                   <img src="https://www.linkedin.com/in/nicoleta-nicolae-b81a9a20a/"/>
+              <a href="https://www.linkedin.com/in/nicoleta-nicolae-b81a9a20a/">
+                   <img src="https://img.icons8.com/office/40/000000/linkedin.png"/>
               </a>
   
   </div>
