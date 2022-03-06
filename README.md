@@ -4,7 +4,7 @@
 - 💬 I am passionate about UI/UX Design
 - :sun_with_face: I love coffee and sunny days
 
-### Connect with me :
+### Connect with me on socials
 
   <div class="social-icons-image">
                 <a href="https://twitter.com/Antoniaaaa____">
