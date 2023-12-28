@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Web Dev
-- 💬 I am passionate about UI/UX Design
+- 🌱 I’m currently working as a frontend developer
+- 💬 I am passionate about UI/UX, Graphic Design and Web Technologies 
 - :sun_with_face: I love coffee and sunny days
 
 ### Connect with me :iphone:
