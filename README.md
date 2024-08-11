@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently working as a frontend developer
+- 🌱 I’m currently working as a software engineer
 - 💬 I am passionate about UI/UX, Graphic Design and Web Technologies 
 - :sun_with_face: I love coffee and sunny days
 
