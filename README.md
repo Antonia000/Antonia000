@@ -10,7 +10,7 @@
                 <a href="https://twitter.com/Antoniaaaa____">
                    <img src="https://img.icons8.com/office/80/000000/twitter.png" width="50px"/>
                 </a>
-              <a href="[https://www.linkedin.com/in/nicoleta-nicolae-b81a9a20a/](https://www.linkedin.com/in/antonia-nicolae-b81a9a20a)">
+              <a href="https://www.linkedin.com/in/antonia-nicolae-b81a9a20a">
                    <img src="https://img.icons8.com/office/80/000000/linkedin.png" width="50px"/>
               </a>
   </div>
